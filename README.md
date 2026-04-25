@@ -11,3 +11,6 @@ Pokud chcete tento repozitar nainstalovat, proveďte následující kroky:
    git clone https://github.com/your-username/pyladies-git-workshop-2026-04.git
    ```
 4. Po dokončení stahování se repozitar nachází ve složce `pyladies-git-workshop-2026-04`.
+
+## Vice info
+Vice informaci na pyladies.cz
